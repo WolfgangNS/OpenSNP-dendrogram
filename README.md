@@ -13,3 +13,5 @@ Data to install:
 2. 23andme SNP files in .23andme.txt format (download here: https://archive.org/details/opensnp_data_dumps)
 
 Invoke from command line: `sh convert.sh`
+
+![dendrogram]([https://github.com/WolfgangNS/OpenSNP-dendrogram/raw/main/opensnp%20dendrogram%20result.PNG])
