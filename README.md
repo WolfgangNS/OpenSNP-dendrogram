@@ -14,5 +14,4 @@ Data to install:
 
 Invoke from command line: `sh convert.sh`
 
-![dendrogram]([opensnp_dendrogram_result.PNG"])
-
+<img src="dendrogram.PNG">
