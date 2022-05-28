@@ -14,4 +14,5 @@ Data to install:
 
 Invoke from command line: `sh convert.sh`
 
-![dendrogram]([https://github.com/WolfgangNS/OpenSNP-dendrogram/raw/main/opensnp%20dendrogram%20result.PNG])
+![dendrogram]([opensnp_dendrogram_result.PNG"])
+
