@@ -2,7 +2,7 @@
 Phylogenetic tree generator for samples from OpenSNP.
 Tested on Ubuntu LTS 20.04 for Windows.
 
-<img src="dendrogram-v2.PNG">
+<img src="dendrogram-v2.PNG" style="width:20%;height:20%">
 
 ### Packages to install
 1. htslib
@@ -18,7 +18,7 @@ Tested on Ubuntu LTS 20.04 for Windows.
 Invoke from command line: `sh convert.sh`
 
 ### To-do list
-1. Make radial dendrogram instead
-2. Insert curl command to download and unpack datasets for OpenSNP and GRCh37
-3. Insert install commands for libraries
-4. Additional code to clean OpenSNP/23andme data, and make cross-compatible between releases
+1. Insert curl command to download and unpack datasets for OpenSNP and GRCh37
+1. Insert install commands for libraries
+1. Batch file renamer to shorten labels (e.g. "user6969_file420_yearofbirth..." to "user6969")
+1. Additional code to clean OpenSNP/23andme data, and make cross-compatible between releases
