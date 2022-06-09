@@ -2,7 +2,7 @@
 Phylogenetic tree generator for samples from OpenSNP.
 Tested on Ubuntu LTS 20.04 for Windows.
 
-<img src="dendrogram.PNG">
+<img src="dendrogram-v2.PNG">
 
 ### Packages to install
 1. htslib
