@@ -8,6 +8,11 @@ genofile<-snpgdsOpen("data.gds")
 set.seed(100)
 ibs.hc<-snpgdsHCluster(snpgdsIBS(genofile,num.thread=2, autosome.only=FALSE))
 rv <- snpgdsCutTree(ibs.hc)
-par(cex=0.15)
-plot(rv$dendrogram,main="Dendrogram based on IBS")
+
+library(dendextend)
+library(circlize)
+dend1 <- rv$dendrogram
+dend2 <- rank_branches(dend1)
+par(cex=0.5) #label size
+circlize_dendrogram(dend2)
 graphics.off()
