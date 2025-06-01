@@ -4,7 +4,7 @@ Have you ever wondered how related we all are? Current estimates have stated tha
 This has been not only a project to look at human geneology from a more data-driven perspective, but also to demonstrate how I can manage large datasets, and to hopefully inspire further questions and further research. Could there be any unique genotypes hidden within this data set? Could there be any unique adaptations to diseases? Any hidden trends we have never seen before?
 
 <p align="center">
-  <img src="dendrogram%20with%20proper%20labels.svg" style="width:20%;height:20%">
+  <img src="dendrogram%20with%20proper%20labels.svg" style="width:70%;height:70%">
 </p>
 
 
